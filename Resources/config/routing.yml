@@ -1,0 +1,3 @@
+pyrex_dupe_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: PyrexDupeBundle:Default:index }

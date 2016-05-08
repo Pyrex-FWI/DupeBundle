@@ -1,0 +1,4 @@
+services:
+#    pyrex_dupe.example:
+#        class: Pyrex\DupeBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
